@@ -1,0 +1,6 @@
+
+*.tif
+*.zip
+.ipynb_checkpoints/Week3_CNN_Project-checkpoint.ipynb
+*.csv
+*.png
